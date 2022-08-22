@@ -6,8 +6,8 @@ mkautodoc
 mkdocs-material
 
 # Packaging
-twine
-wheel
+build==0.8.0
+twine==4.0.1
 
 # Tests & Linting
 autoflake
